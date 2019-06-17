@@ -1,0 +1,1 @@
+docker run --name php-app -p 80:80 -v ~/agasparo/02_bonus/servphp:/var/www/html -d php:apache
